@@ -1,4 +1,4 @@
-# Genqlient Todos
+# genqlient-todos
 
 A POC GraphQL client for gqlgen-todos built with
 [genqlient](https://github.com/Khan/genqlient)
